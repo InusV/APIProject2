@@ -1,0 +1,26 @@
+{
+  "name": "api_",
+  "version": "1.0.0",
+  "description": "\"# APIProject2\"",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/InusV/APIProject2.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/InusV/APIProject2/issues"
+  },
+  "homepage": "https://github.com/InusV/APIProject2#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "gridfs-stream": "^1.1.1",
+    "mongoose": "^5.10.14",
+    "multer-gridfs-storage": "^4.2.0"
+  }
+}
